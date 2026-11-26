@@ -6,11 +6,17 @@
 
 One line about office life, under 200 characters. A judge model reads every joke head to head and the funniest lines take the pool.
 
+## The joke (v2)
+
+A protest against reply-all that 47 people answer — by reply-all. The complaint and the agreement both use the very thing being protested, so the line lands where the reader does not expect it. Re-entry: v1 ("the meeting could have been an email...") ranked #1110 in round 2 — the most-told office line, weak on freshness. v2 keeps the recognition (reply-all is the office's shared wound) but lands a real turn instead.
+
 ## Run it
 
 ```sh
 node main.ts
 ```
+
+Writes one joke (90 characters) to `/output/entry.txt`.
 
 ---
 
